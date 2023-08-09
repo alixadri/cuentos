@@ -9,7 +9,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
-    background-image:url('./normal.jpg');
+    background-image:url('../imagenes/normal.jpg');
     padding: 0;
   }
   h1{
